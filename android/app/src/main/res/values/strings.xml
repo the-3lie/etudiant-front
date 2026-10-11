@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Présence Étudiant</string>
+    <string name="title_activity_main">Présence Étudiant</string>
+    <string name="package_name">com.iuaci.presence.etudiant</string>
+    <string name="custom_url_scheme">com.iuaci.presence.etudiant</string>
+</resources>
